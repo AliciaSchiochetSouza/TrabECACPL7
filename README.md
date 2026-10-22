@@ -52,3 +52,7 @@ Construir e avaliar uma abordagem multimodal de Machine Learning capaz de utiliz
 Departamento de Engenharia Informática  
 Feature Engineering for Machine Learning  
 2026
+
+##Link do google docs
+
+https://docs.google.com/document/d/1Rf0y8Ca-Fgh210VsjHv89PLhe7jXSLnPvnwuinl5j0Q/edit?usp=sharing
